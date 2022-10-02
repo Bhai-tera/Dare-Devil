@@ -1,4 +1,4 @@
-No//════════════════════════════//
+//════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
