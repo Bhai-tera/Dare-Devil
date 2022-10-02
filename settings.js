@@ -63,13 +63,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['917065921730']
 global.ownertag = '917065921730' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.botname = 'Alien-Alfa.Inc' //ur bot name
+global.linkz = "https://github.com/Bhai-tera/Dare-Devil" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/Bhai-tera/Dare-Devil" //ur website to be displayed
+global.botscript = 'https://github.com/Bhai-tera/Dare-Devil' //script link
+global.reactmoji = "🤖" //ur menu react emoji
+global.themeemoji = "🤖" //ur theme emoji
+global.packname = "Alien Alfa Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
 
 //Bot theme media
